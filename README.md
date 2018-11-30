@@ -1,5 +1,10 @@
 # practice
+> practice makes perfect!
+
 practice code for Unix Network Programming course 
 
-author: 季天冬
-student number: 201693097
+
+
+`author`: `季天冬`
+
+`student number`: `201693097`
